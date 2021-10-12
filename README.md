@@ -1,11 +1,11 @@
 # Latar Belakang
 
-Perusahaan Iowa Liquor membutuhkan insight mengenai penjualan mereka melalui visualisasi data. Data tersebut diletakan di Google Big Query sehingga harus diakuisisi tersebut menggunakan SQL.
+Iowa Liquor companies need insight into their sales through data visualization. The data is placed in Google Big Query so it must be acquired using SQL.
 
 # Metodologi
 
-Semua visualisasi data menggunakan tools yang ada di Python dan dataset yang digunakan sudah bersih sehingga memudahkan proses visualisasi data
+All data visualization uses tools in Python and the dataset used is clean, making it easier for the data visualization process.
 
 # Hasil
 
-Kota Des Moines merupakan kota dengan penghasil keuntungan terbesar dan Diageo Americas merupakan liquor dengan penjualan terbesar
+The city of Des Moines is the most profitable city and Diageo Americas is the largest selling liquor.
