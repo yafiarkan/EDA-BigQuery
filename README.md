@@ -1,0 +1,2 @@
+# EDA-BigQuery
+# Latar Belakang
